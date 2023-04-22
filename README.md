@@ -7,3 +7,9 @@ Maria Belen Colado
 Ignacio Suarez
 Emanuel  Gomez
 h
+Nombre de los integrantes del grupo:
++ María Belén Colado
++ Micaela Vílchez
++ Leandro Trivellini
++ Emanuel Gómez
++ Dardo Molina
