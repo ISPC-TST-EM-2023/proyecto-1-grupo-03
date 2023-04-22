@@ -10,6 +10,7 @@ Gabriel Chavez
 Nombre de los integrantes del grupo:
 + María Belén Colado
 + Micaela Vílchez
-+ Leandro Trivellini
++ LeandroTrivelliini
 + Emanuel Gómez
 + Dardo Molina
++ Gabriel Chávez
