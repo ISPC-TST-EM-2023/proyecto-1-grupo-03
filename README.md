@@ -2,4 +2,10 @@
 # Proyecto-1
 Proyecto del periodo #1. Programando el ESP32
 
-Nombre de los integrantes del grupo:
+Nombre de los integrantes del grupo: 
++ Maria Belen Colado
++ Micaela Vilchez 
++ Leandro Trivellini
++ EmanuelGomez
++ Dardo Molina
++ Ignacio Suarez
