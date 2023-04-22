@@ -13,4 +13,3 @@ Nombre de los integrantes del grupo:
 + Leandro Trivellini
 + Emanuel Gómez
 + Dardo Molina
-Gabriel Chavez
