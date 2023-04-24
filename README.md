@@ -6,7 +6,7 @@
 
 MATERIA
 
-+Microelectrónica controlada 
++Microelectrónica controlada
 
 INTEGRANTES DEL GRUPO
 
@@ -20,7 +20,7 @@ INTEGRANTES DEL GRUPO
  
 PROFESOR
 
-+Cristian Gonzalo Vera 
++Cristian Gonzalo Vera  
 
 AÑO
 
