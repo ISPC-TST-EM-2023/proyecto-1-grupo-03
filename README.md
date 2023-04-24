@@ -20,7 +20,7 @@
  
 **PROFESOR**
 
-+Cristian Gonzalo Vera  
++ *Cristian Gonzalo Vera*
 
 **AÑO**
-*2023*
+#*2023*
