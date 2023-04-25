@@ -14,7 +14,7 @@
 + Micaela Vílchez
 + Leandro Trivelliini
 + Emanuel Gómez
-+ Dardo Molina
++ Dardo Molina            Scrum Team
 + Gabriel Chavez
 + Ignacio Suarez
  
