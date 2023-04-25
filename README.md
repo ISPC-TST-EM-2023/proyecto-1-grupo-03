@@ -11,11 +11,12 @@
 # Integrantes:
 
 + María Belén Colado
-+ Micaela Vílchez
++ 
 + Leandro Trivelliini
 + Emanuel Gómez
 + Dardo Molina            Scrum Team
-+ Gabriel Chavez
++ Micaela Vílchez         Scrum Team
++ Gabriel Chavez          
 + Ignacio Suarez
  
  # Docente:
