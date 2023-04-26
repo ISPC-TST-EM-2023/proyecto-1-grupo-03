@@ -33,7 +33,7 @@
 
 [Gabriel Chavez](https://github.com/GabiChavez23)
 
-[Ignacio Suarez](https://github.com/suarezignacio)
+[Ignacio Suarez Zarate](https://github.com/suarezignacio)
  
 # VIDEO:
 [Presentación grupal](https://www.youtube.com/watch?v=KiUC-CiA87c)
